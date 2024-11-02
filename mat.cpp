@@ -1,16 +1,5 @@
-// CS311 YOSHII SUM24 mat.cpp
-// Complete by searching for **
-// NEVER delete my comments!!!
-//---------------------------------------
-#include<iostream>
-#include<fstream>
-#include<vector>
-using namespace std;
-
-//--------------------------------------
-// CS311 File mat.cpp for HW1P3 Matrix 
 // Compiler: g++   
-// Your name: Anna Mairaj
+// Name: Anna Mairaj
 //--------------------------------------
 
 // the following can be changed and the rest of the code should work
